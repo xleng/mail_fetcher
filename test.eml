@@ -1,0 +1,1751 @@
+From: "Linux Foundation Training" <no-reply@linuxfoundation.org>
+To: "Leng, John" <John.Leng@harman.com>
+Subject: Free Certification Retakes, The Linux Jobs Report, Free Prizes, and More | The Linux Foundation Training Newsletter
+Date: Wed, 11 Mar 2015 01:13:56 +0800
+Message-ID: <4fbca2d3071dd5a92da872b68aeaeb2d@swift.generated>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0004_01D066E5.0FEBF410"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHQW1eERKNlpZ45z0WoUprg8HHqJg==
+List-Unsubscribe: <http://go.linuxfoundation.org/unsubscribe/u/6342/d4f65b28e3667b8e9350812c05c1be95/606971599>
+Content-Language: zh-cn
+x-ms-exchange-organization-authas: Anonymous
+x-ms-exchange-organization-authsource: HICGWSEXHC03.ad.harman.com
+x-env-sender: undelivered+6342+606971599@pd25.com
+x-starscan-version: 6.13.4; banners=-,-,-
+x-msg-ref: server-9.tower-126.messagelabs.com!1426008453!17877325!13
+x-originating-ip: [208.43.21.70]
+x-viruschecked: Checked
+x-starscan-received: 
+dkim-signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=pardot; d=linuxfoundation.org; h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type:List-Unsubscribe; i=no-reply@linuxfoundation.org; bh=Puwc68vho8FpmrM1cL3OQ0oH4FE=; b=nYobb0OydWZmroHCRIaQ/LCafNYjd0DKQInIaYO47at2ZKzXO5C0zAZlhH2H4evnDQDIFjLlpeUq   ivF0G6dMzlSk6FhaiqN/hyWsHsIBsVCGLRJzDDnn1WDbHFgiROZVkfPDzsfC+uQ1lzTH6s0Mmymg   URss5eOB2yL1cCZFV5M=
+domainkey-signature: a=rsa-sha1; c=nofws; q=dns; s=pardot; d=linuxfoundation.org; b=Vu9VgkD4ubkeL/fufjk9VPlehjVkwtg3FelJ86h1A4TQzXJJlsBnzWwBez+y2uMcfoK7ukwbFaNA   Vh5GD1m68ZfOYO5NHsZOB5zFjDiR2UdjuU4B7WnTASlfEoL/1jKp9rtCAT+HHZYJPKD19l5JxumV   ZoOnXPZ8QZasve8LvT4=;
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0004_01D066E5.0FEBF410
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+Email not displaying properly? View Online. <http://go.linuxfoundation.org/e/6342/2015-03-10/233nkx/606971599/http%3A%2F%2Fgo.linuxfoundation.org%2Fwebmail%2F6342%2F606971599%2Fd4f65b28e3667b8e9350812c05c1be95> 	 
+
+ <http://go.linuxfoundation.org/e/6342/2015-03-10/233nkz/606971599> Linux Fondation Training Newsletter
+
+
+
+
+ 	 
+
+In this Month's Training Newsletter:
+Free Certification Retakes, The Linux Jobs Report, Free Prizes, and More!
+ 	 
+
+
+ 	 
+
+
+
+
+Free Retakes For Linux Foundation Certification Exams
+	
+ 	 
+We’re excited to announce that free retakes are now available for all Linux Foundation Certification Exams taken after March 1, 2015 if a passing score was not achieved on the first attempt. (For more info about rules and eligibility please see the full Retake Policy <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nl2/606971599> .)
+
+To celebrate, we’re offering $100 off the LFCE <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nl4/606971599>  exam, LFCS <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nl6/606971599>  exam, or LFS201  <http://go.linuxfoundation.org/e/6342/tials-of-system-administration/233njj/606971599> & LFCS Exam bundle. Just use coupon code RETAKE100 at checkout to get your discount. The code is only good through the end of this week though, so if you’ve been hesitant to order your exam, jump in now!	 
+
+
+ 	 
+ 	 
+ 	 
+
+
+
+
+Need a Job? Learn Linux: The 2015 Linux Jobs Report	 
+ 	 
+The 2015 Linux Jobs Report <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nl8/606971599>  came out last week, and here are a few of the key findings: 
+
+
+*	Nearly all hiring managers are looking to recruit Linux professionals in the next six months.
+*	The rise of open cloud platforms is creating even more demand for Linux professionals with the right expertise.
+*	Linux-certified professionals will be especially well positioned in the job market this year.
+
+So what are we doing at The Linux Foundation to help ensure that there’s enough Linux talent to meet the growing demand? More importantly, how can we help you take advantage of this trend? Check out our blog post <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nlb/606971599>  to find out. 
+
+
+ 	 
+ 	 
+ 	 
+
+
+
+
+Getting Started With OpenStack	 
+ 	 
+OpenStack’s growth is nothing short of staggering, with the vast majority of new enterprise cloud deployments using the open source technology. Over at Cloud Computing Intelligence, expert Linux Foundation trainer Tim Serewicz takes readers through a quick guide to OpenStack and how it can benefit their business.
+
+From the article: “OpenStack has become an essential choice for data center installation, configuration and management. The large developer and user base, and large vendor support has brought it to be an essential component of data centers large and small.” You can see the rest of the article here <http://go.linuxfoundation.org/e/6342/getting-started-with-openstack/233njq/606971599> .
+
+If you’re looking for some training to get your team up to speed on OpenStack, or you’re looking to start a career in OpenStack yourself, check out LFS520 - OpenStack Cloud Architecture and Deployment <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nld/606971599> . This course is currently part of our Spring Training Sale, so you’ll get additional savings if you sign up now <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nld/606971599> !	 
+
+
+ 	 
+ 	 
+ 	 
+
+
+
+
+Show Your Skills & Win Free Stuff With The TrueAbility Linux Showdown	 
+ 	 
+Want to flex your scripting skills for a chance to win a free certification exam and some other great prizes? Then sign up to compete in the TrueAbility Linux Showdown 8: “The Assembler Challenge”.
+
+From March 16th to March 31st, our friends at TrueAbility are hosting the challenge to test tech pros’ scripting skills and they are calling it their most difficult challenge EVER. Participants compete on real servers to solve the challenge in the fastest time possible.
+
+Top sponsored prizes include free Linux Foundation Certification Exams, DigitalOcean sandbox credits, and a D-Link AC3200 Ultra Wi-Fi Router. Visit TrueAbility’s site <http://go.linuxfoundation.org/e/6342/assembler-challenge/233njv/606971599>  to learn more, or sign up to compete now <http://go.linuxfoundation.org/e/6342/assembler-challenge/233njv/606971599> !	 
+
+
+ 	 
+ 	 
+ 	 
+
+
+
+
+Why Train With Us?	 
+ 	 
+The Linux Foundation has a mandate to train the next generation of Linux developers and system administrators. We have done this by creating the most comprehensive and advanced Linux training and certification programs. If your use of Linux is crucial to your business, count on The Linux Foundation to ensure your staff will get the most out of Linux. We have helped hundreds of companies either move to Linux or gain advanced knowledge of the technology to give their development teams a competitive advantage. Want to talk to someone about Linux training and certification for your team? Learn More <http://go.linuxfoundation.org/e/6342/ry20201520training20newsletter/233nlg/606971599> 	 
+
+
+ 	 
+ 	 
+ 	 
+
+
+ 	 
+ 	 
+ 	 
+
+
+
+
+Newsletter Feedback	 
+ 	 
+We’re always working to make sure that the information we send is useful to you. Please let us know how we’re doing by taking this simple 5 question survey.
+
+As thanks for taking the survey you'll be entered to win an Amazon gift card or a free Certification exam. 
+
+Take Survey Now » <http://go.linuxfoundation.org/e/6342/s-lftnews/233njz/606971599> 	 
+ 	 
+ 	 
+
+Spring Training Sale	 
+ 	 
+We’re currently offering up to $1,000 off our spring Linux training courses <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nlj/606971599> . Here are some courses included in the sale:
+
+Developing Linux Device Drivers (LFD331) <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nll/606971599> 
+06-Apr-15 to 10-Apr-15
+$1,995
+Virtual
+
+Linux Network Management (LFS230) <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nln/606971599> 
+13-Apr-15 to 16-Apr-15
+$1,995
+Virtual
+ 	 
+ 	 
+ 	 
+
+
+Linux.com News
+
+ 	 
+
+» Top 10 Linux and Android Products from Mobile World Congress <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nlq/606971599> 
+  By Eric Brown
+
+»  On the Linux Kernel’s Code of Conflict <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nls/606971599> 
+  By Jim Zemlin
+ 
+
+»  15 Questions from Kernel.org SysAdmin Konstantin Ryabitsev's Reddit AMA <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nlv/606971599> 
+  By Libby Clark
+
+»  SUSE Explains Why the Future of Enterprise Storage is Open Source <http://go.linuxfoundation.org/e/6342/ch20201520training20newsletter/233nlx/606971599> 
+  By Libby Clark
+
+ 	 
+
+
+ 	 
+ 	 
+ 	 
+
+ 	 
+
+Stay Connected	 
+ 	 
+ 	  <http://go.linuxfoundation.org/e/6342/TheLinuxFoundation/233nkj/606971599> Facebook	  	  <http://go.linuxfoundation.org/e/6342/linuxfoundation/233nkl/606971599> Twitter	  	  <http://go.linuxfoundation.org/e/6342/groups-gid-48682/233nkn/606971599> LinkedIn	  	  <http://go.linuxfoundation.org/e/6342/105083814157272466314-posts/233nkq/606971599> Google +	  	  <http://go.linuxfoundation.org/e/6342/user-TheLinuxFoundation/233nks/606971599> YouTube	 
+ 	 
+
+
+Update Your Email Preferences <http://go.linuxfoundation.org/email-preference-center?ehash=d4f65b28e3667b8e9350812c05c1be95&email_id=606971599> 	 
+ 	 
+
+ 	 
+
+ <http://go.linuxfoundation.org/e/6342/2015-03-10/233nkv/606971599> 	 
+ 	 
+
+ 	 
+
+
+
+The Linux Foundation
+660 York Street
+Suite 102
+San Francisco, CA 94110
+
+© 2014 All rights Reserved
+
+ 	 
+
+ 	 
+ 	 
+  <http://go.linuxfoundation.org/r/6342/1/606971599/open/1> 
+  <https://aq9ub2jr.emltrk.com/aq9ub2jr> 
+
+------=_NextPart_000_0004_01D066E5.0FEBF410
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html =
+lang=3D"en" xml:lang=3D"en" =
+xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">
+    <meta content=3D"width=3Ddevice-width; initial-scale=3D1.0; =
+maximum-scale=3D1.0;" name=3D"viewport">
+
+    <title>Free Certification Retakes, The Linux Jobs Report, Free =
+Prizes, and More | The Linux Foundation Training Newsletter</title>
+	</head>
+	<body>
+<div id=3D"emailContents">
+<style type=3D"text/css">div, p, a, li, td { =
+-webkit-text-size-adjust:none; }
+
+*{
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+.ReadMsgBody
+{width: 100%; background-color: #fff;}
+.ExternalClass
+{width: 100%; background-color: #fff;}
+body{width: 100%; height: 100%; background-color: #fefffa; margin:0; =
+padding:0; -webkit-font-smoothing: antialiased;}
+html{width: 100%;}
+
+p {padding: 0!important; margin-top: 0!important; margin-right: =
+0!important; margin-bottom: 0!important; margin-left: 0!important;}
+
+.image186 img {width: 186px; height: auto;}
+.image394 img {width: 394px; height: auto;}
+.fullImage img {width: 600px; height: auto; text-align: center;}
+.table33Img img {width: 186px; height: auto;}
+
+ /* hide unsubscribe from forwards */
+          blockquote .original-only, .WordSection1 .original-only {
+            display: none !important;
+          }
+</style>
+<!-- @media only screen and (max-width: 640px)=20
+		   {*/
+		   -->
+<style type=3D"text/css">@media only screen and (max-width: 640px){
+		body{width:auto!important;{-webkit-text-size-adjust:none !important;} =
+/* Prevent Webkit platforms from changing default text sizes */}
+		table[class=3Dfull] {width: 100%!important; clear: both; =
+{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms =
+from changing default text sizes */}
+		table[class=3Dmobile] {width: 100%!important; padding-left: 30px; =
+padding-right: 30px; clear: both; }
+		table[class=3DfullCenter] {width: 100%!important; text-align: =
+center!important; clear: both; }
+		td[class=3DfullCenter] {width: 100%!important; text-align: =
+center!important; clear: both; }
+		table[class=3Dcol3] {width: 100%!important; text-align: =
+center!important; clear: both;}
+		table[class=3DfullImage] {width: 100%!important; height: =
+auto!important; text-align: center!important; clear: both; }
+		.fullImage img {width: 100%!important; height: auto!important; =
+text-align: center!important; clear: both; }
+		.image394 img {width: 100%!important;}
+		.erase {display: none;}
+		.buttonPad {padding-left: 20px!important; padding-right: =
+20px!important;}
+		.nbsp {display: none;}
+		table[class=3Dtable33] {width: 31%!important; margin-right: 16px;}
+		table[class=3Dtable33Img]	{width: 100%!important; margin-right: 0px;}
+		table[class=3Dtable33Right] {width: 31%!important; margin-left: 0px;}
+		.table33Img img {width: 100%!important; }
+		table[class=3Dw10] {display: none; }
+		.w50Left {width: 53%!important; text-align: right!important;}
+		.w50Right {width: 47%!important; text-align: left!important;}
+		td[class=3Dw20] {width: 90px!important;}
+	=09
+}
+</style>
+<!--
+
+@media only screen and (max-width: 479px)=20
+		   {
+		   -->
+<style type=3D"text/css">@media only screen and (max-width: 479px){
+		body{width:auto!important;}
+		table[class=3Dfull] {width: 100%!important; clear: both; }
+		table[class=3Dmobile] {width: 100%!important; padding-left: 20px; =
+padding-right: 20px; clear: both; }
+		table[class=3DfullCenter] {width: 100%!important; text-align: =
+center!important; clear: both; }
+		td[class=3DfullCenter] {width: 100%!important; text-align: =
+center!important; clear: both; }
+		.image186 img {width: 100%!important;}
+		.image394 img {width: 100%!important;}
+		table[class=3DfullImage] {width: 100%!important; height: =
+auto!important; text-align: center!important; clear: both; }
+		.fullImage img {width: 100%!important; height: auto!important; =
+text-align: center!important; clear: both; }
+		.erase {display: none;}
+		.buttonPad {padding-left: 20px!important; padding-right: =
+20px!important;}
+		.nbsp {display: none;}
+		table[class=3Dw10] {width: 100%!important; clear: both; }
+		table[class=3Dtable33] {width: 100%!important; margin-right: =
+0px!important;}
+		table[class=3Dtable33Img]	{width: 100%!important; margin-right: =
+0px!important;}
+		table[class=3Dtable33Right] {width: 100%!important; margin-right: =
+0px!important;}
+		.table33Img img {width: 100%!important; }
+		.w50Left {width: 53%!important; text-align: right!important;}
+		.w50Right {width: 47%!important; text-align: left!important;}
+		td[class=3Dw20] {width: 25px!important; }
+			=09
+		}
+}
+
+ /* hide unsubscribe from forwards */
+          blockquote .original-only, .WordSection1 .original-only {
+            display: none !important;
+          }
+</style>
+<div class=3D"ui-sortable" id=3D"sort_them"><!-- Wrapper 1 (Header + =
+Nav) -->
+<table class=3D"full" style=3D"background-color:rgb(38, 37, 36);" =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+	<tbody>
+		<tr>
+			<td><!--[if gte mso 9]>=20
+    =20
+        <v:textbox style=3D"mso-fit-shape-to-text:true" =
+inset=3D"0,0,0,0">
+      <![endif]-->
+			<div><!-- Wrapper --><!-- fill color change header-->
+			<table class=3D"full" style=3D"background-color:rgb(38, 37, 36);" =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+			</table>
+
+			<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+				<tbody>
+					<tr>
+						<td width=3D"100%"><!-- Start Nav -->
+						<table class=3D"full" style=3D"background-color:rgb(38, 37, 36);" =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+							<tbody>
+								<tr>
+									<td class=3D"logoWidth" valign=3D"middle" width=3D"100%"><!-- =
+Logo -->
+									<table class=3D"fullCenter" style=3D"background-color:rgb(38, =
+37, 36);" align=3D"left" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<td class=3D"fullCenter" =
+pardot-data=3D"line-height:18px;link-color:#cccccc;" pardot-region=3D"" =
+style=3D"font-size: 10px; color: rgb(204, 204, 204); text-align: center; =
+font-family: 'proxima_novablack',Helvetica,Arial,sans-serif; =
+line-height: 18px; vertical-align: top; padding-left: 10px;" =
+valign=3D"middle" width=3D"100%">Email not displaying properly? <a =
+href=3D"http://go.linuxfoundation.org/e/6342/2015-03-10/233nkx/606971599/=
+http%3A%2F%2Fgo.linuxfoundation.org%2Fwebmail%2F6342%2F606971599%2Fd4f65b=
+28e3667b8e9350812c05c1be95" style=3D"color:#ccc;">View Online.</a></td>
+											</tr>
+											<tr>
+												<td class=3D"fullCenter" pardot-region=3D"" =
+style=3D"text-align: middle;" height=3D"auto" valign=3D"middle" =
+width=3D"100%"><div style=3D"text-align: center;"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/2015-03-10/233nkz/606971599"=
+><img alt=3D"Linux Fondation Training Newsletter" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-05-12/y635w/6342/108008/=
+header_training_newsletter_stacked_logo.png" style=3D"border-width: 0px; =
+border-style: solid; width: 294px; margin-top: 10px; margin-bottom: =
+10px;" border=3D"0" width=3D"100%"></a></div>
+</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper --><!--[if gte mso 9.]>
+        </v:textbox>
+       <![endif]--></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 1 --></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- End fill color header --><!-- Wrapper 2 (intro) -->
+
+<table class=3D"full" style=3D"position: relative; left: 0px; top: 0px;" =
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+	<tbody>
+		<tr>
+			<td style=3D"background-color: #f47422;" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Text -->
+									<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td valign=3D"top" width=3D"100%">
+												<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td height=3D"10" width=3D"100%">&nbsp;</td>
+														</tr>
+														<tr>
+															<td class=3D"fullCenter" =
+pardot-data=3D"link-color:#333333;link-underline:underline;" =
+pardot-region=3D"" style=3D"font-size: 20px; color: rgb(255, 255, 255); =
+text-align: left; font-family: Helvetica,Arial,sans-serif;  line-height: =
+32px; vertical-align: top; padding-left: 10px;" valign=3D"middle" =
+width=3D"600"><div style=3D"text-align: center;"><strong =
+style=3D"-webkit-font-smoothing: antialiased; text-align: center; =
+background-color: rgb(244, 116, 34);"><span =
+style=3D"-webkit-font-smoothing: antialiased; font-size: 24px;">In this =
+Month's Training Newsletter:</span></strong></div>
+
+<div style=3D"text-align: center;"><span =
+style=3D"-webkit-font-smoothing: antialiased; text-align: center; =
+font-size: 16px; background-color: rgb(244, 116, 34);">Free =
+Certification Retakes, The Linux Jobs Report, Free Prizes, and =
+More!</span></div>
+</td>
+														</tr>
+														<tr>
+															<td height=3D"10" width=3D"100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Wrapper --></td>
+		</tr>
+	</tbody>
+</table>
+<!-- Wrapper 2 --><!-- Wrapper 3 (Divider) -->
+
+<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+	<tbody>
+		<tr>
+			<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+			<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+				<tbody>
+					<tr>
+						<td width=3D"100%"><!-- Divider -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td height=3D"10" width=3D"100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Divider --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 2 -->
+
+			<div pardot-repeatable=3D"" class=3D"">
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 2 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+																<tbody>
+																	<tr>
+																		<td class=3D"" pardot-datapardot-region=3D"" =
+style=3D"font-size: 23px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; vertical-align: top; =
+line-height: 30px; color: rgb(244, 116, 34);" width=3D"100%">Free =
+Retakes For Linux Foundation Certification Exams<br>
+</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td pardot-data=3D"link-color:#f47122;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(150, 150, 150); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 24px; =
+vertical-align: top;" class=3D"" width=3D"100%">We=E2=80=99re excited to =
+announce that free retakes are now available for all Linux Foundation =
+Certification Exams taken after March 1, 2015 if a passing score was not =
+achieved on the first attempt. (For more info about rules and =
+eligibility please see the full&nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nl2/606971599" style=3D"color: rgb(244, 113, 34);">Retake =
+Policy</a>.)<br>
+<br>
+To celebrate, we=E2=80=99re offering $100 off the&nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nl4/606971599" style=3D"color: rgb(244, 113, 34);">LFCE</a> =
+exam,&nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nl6/606971599" style=3D"color: rgb(244, 113, 34);">LFCS</a> exam, =
+or&nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/tials-of-system-administrati=
+on/233njj/606971599" style=3D"color: rgb(244, 113, 34);">LFS201 &amp; =
+LFCS Exam bundle</a>. Just use coupon code <strong>RETAKE100</strong> at =
+checkout to get your discount. The code is only good through the end of =
+this week though, so if you=E2=80=99ve been hesitant to order your exam, =
+jump in now!</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END Wrapper 2 (full width text box) --><!-- Wrapper 3 (Divider) =
+-->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --></div>
+
+			<div pardot-repeatable=3D"" class=3D"">
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 2 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+																<tbody>
+																	<tr>
+																		<td class=3D"" pardot-datapardot-region=3D"" =
+style=3D"font-size: 23px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; vertical-align: top; =
+line-height: 30px; color: rgb(244, 116, 34);" width=3D"100%"><span =
+id=3D"docs-internal-guid-79a17be9-0458-33f9-656c-a116e98d1fb8">Need a =
+Job? Learn Linux: The 2015 Linux Jobs Report</span></td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td class=3D"" pardot-data=3D"link-color:#f47122;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(150, 150, 150); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 24px; =
+vertical-align: top;" width=3D"100%">The 2015 <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nl8/606971599" style=3D"color: rgb(244, 113, 34);">Linux Jobs =
+Report</a> came out last week, and here are a few of the key findings:
+
+<ul style=3D"list-style-type:disc;">
+	<li dir=3D"ltr">Nearly all hiring managers are looking to recruit Linux =
+professionals in the next six months.</li>
+	<li dir=3D"ltr">The rise of open cloud platforms is creating even more =
+demand for Linux professionals with the right expertise.</li>
+	<li dir=3D"ltr">Linux-certified professionals will be especially well =
+positioned in the job market this year.</li>
+</ul>
+So what are we doing at The Linux Foundation to help ensure that =
+there=E2=80=99s enough Linux talent to meet the growing demand? More =
+importantly, how can we help you take advantage of this trend?&nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nlb/606971599" style=3D"color: rgb(244, 113, 34);">Check out our =
+blog post</a> to find out.</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END Wrapper 2 (full width text box) --><!-- Wrapper 3 (Divider) =
+-->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --></div>
+
+			<div class=3D"" pardot-repeatable=3D"">
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 2 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+																<tbody>
+																	<tr>
+																		<td class=3D"" pardot-datapardot-region=3D"" =
+style=3D"font-size: 23px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; vertical-align: top; =
+line-height: 30px; color: rgb(244, 116, 34);" width=3D"100%"><span =
+id=3D"docs-internal-guid-79a17be9-0459-cc94-3652-813d2a832f3c">Getting =
+Started With OpenStack</span></td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td pardot-data=3D"link-color:#f47122;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(150, 150, 150); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 24px; =
+vertical-align: top;" class=3D"" width=3D"100%">OpenStack=E2=80=99s =
+growth is nothing short of staggering, with the vast majority of new =
+enterprise cloud deployments using the open source technology. Over at =
+Cloud Computing Intelligence, expert Linux Foundation trainer Tim =
+Serewicz takes readers through a quick guide to OpenStack and how it can =
+benefit their business.<br>
+<br>
+From the article: =E2=80=9COpenStack has become an essential choice for =
+data center installation, configuration and management. The large =
+developer and user base, and large vendor support has brought it to be =
+an essential component of data centers large and small.=E2=80=9D You can =
+see the rest of the article <a =
+href=3D"http://go.linuxfoundation.org/e/6342/getting-started-with-opensta=
+ck/233njq/606971599" style=3D"color: rgb(244, 113, 34);">here</a>.<br>
+<br>
+If you=E2=80=99re looking for some training to get your team up to speed =
+on OpenStack, or you=E2=80=99re looking to start a career in OpenStack =
+yourself, check out <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nld/606971599" style=3D"color: rgb(244, 113, 34);">LFS520 - =
+OpenStack Cloud Architecture and Deployment</a>. This course is =
+currently part of our Spring Training Sale, so you=E2=80=99ll get =
+additional savings if you <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nld/606971599" style=3D"color: rgb(244, 113, 34);">sign up =
+now</a>!</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END Wrapper 2 (full width text box) --><!-- Wrapper 3 (Divider) =
+-->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --></div><div class=3D"" pardot-repeatable=3D"">
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 2 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+																<tbody>
+																	<tr>
+																		<td class=3D"" pardot-datapardot-region=3D"" =
+style=3D"font-size: 23px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; vertical-align: top; =
+line-height: 30px; color: rgb(244, 116, 34);" width=3D"100%"><span =
+id=3D"docs-internal-guid-79a17be9-045a-e98a-8be1-a0700f3c8ffc">Show Your =
+Skills &amp; Win Free Stuff With The TrueAbility Linux =
+Showdown</span></td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td pardot-data=3D"link-color:#f47122;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(150, 150, 150); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 24px; =
+vertical-align: top;" class=3D"" width=3D"100%">Want to flex your =
+scripting skills for a chance to win a free certification exam and some =
+other great prizes? Then sign up to compete in the TrueAbility Linux =
+Showdown 8: =E2=80=9CThe Assembler Challenge=E2=80=9D.<br>
+<br>
+From March 16th to March 31st, our friends at TrueAbility are hosting =
+the challenge to test tech pros=E2=80=99 scripting skills and they are =
+calling it their most difficult challenge EVER. Participants compete on =
+real servers to solve the challenge in the fastest time possible.<br>
+<br>
+Top sponsored prizes include free Linux Foundation Certification Exams, =
+DigitalOcean sandbox credits, and a D-Link AC3200 Ultra Wi-Fi Router. <a =
+href=3D"http://go.linuxfoundation.org/e/6342/assembler-challenge/233njv/6=
+06971599" style=3D"color: rgb(244, 113, 34);">Visit =
+TrueAbility=E2=80=99s site</a> to learn more, or <a =
+href=3D"http://go.linuxfoundation.org/e/6342/assembler-challenge/233njv/6=
+06971599" style=3D"color: rgb(244, 113, 34);">sign up to compete =
+now</a>!</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END Wrapper 2 (full width text box) --><!-- Wrapper 3 (Divider) =
+-->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --></div>
+
+			<div pardot-repeatable=3D"" class=3D"">
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 2 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+																<tbody>
+																	<tr>
+																		<td pardot-datapardot-region=3D"" style=3D"font-size: =
+23px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; vertical-align: top; =
+line-height: 30px; color: rgb(244, 116, 34);" width=3D"100%">Why Train =
+With Us?</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td class=3D"" pardot-data=3D"link-color:#f47122;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(150, 150, 150); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 24px; =
+vertical-align: top;" width=3D"100%"><span =
+id=3D"docs-internal-guid-9ca12449-7533-3b7c-386c-9e6d31ede55e">The Linux =
+Foundation has a mandate to train the next generation of Linux =
+developers and system administrators. We have done this by creating the =
+most comprehensive and advanced Linux training and certification =
+programs. If your use of Linux is crucial to your business, count on The =
+Linux Foundation to ensure your staff will get the most out of Linux. We =
+have helped hundreds of companies either move to Linux or gain advanced =
+knowledge of the technology to give their development teams a =
+competitive advantage. Want to talk to someone about Linux training and
+certification for your team?</span> <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ry20201520training20newslett=
+er/233nlg/606971599" style=3D"color: #f47122;">Learn More</a></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END Wrapper 2 (full width text box) --><!-- Wrapper 3 (Divider) =
+-->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --></div>
+			<!-- Wrapper 3 (Divider) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" style=3D"background-color:rgb(255, 255, =
+255);" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#f1f1f1" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --><!-- Wrapper 2 (3 Column footer) -->
+
+			<table class=3D"full" style=3D"position: relative; left: 0px; top: =
+0px;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" valign=3D"top" =
+width=3D"100%"><!-- Wrapper -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td><!-- Wrapper -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td width=3D"100%"><!-- Col 1 -->
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+																<tbody>
+																	<tr>
+																		<td pardot-datapardot-region=3D"" style=3D"font-size: =
+18px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 32px; =
+vertical-align: bottom; color: rgb(63, 64, 66);" =
+width=3D"100%">Newsletter Feedback</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td class=3D"" pardot-data=3D"link-color:#048ac5;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(51, 51, 51); =
+text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 18px; =
+vertical-align: top;" width=3D"100%"><span =
+style=3D"-webkit-font-smoothing: antialiased; line-height: =
+24px;">We=E2=80=99re always working to make sure that the information we =
+send is useful to you. Please let us know how we=E2=80=99re doing by =
+taking this simple 5 question survey.<br =
+style=3D"-webkit-font-smoothing: antialiased;">
+<br style=3D"-webkit-font-smoothing: antialiased;">
+As thanks for taking the survey you'll be entered to win an Amazon gift =
+card or a free Certification exam.&nbsp;</span><br =
+style=3D"-webkit-font-smoothing: antialiased;">
+<br style=3D"-webkit-font-smoothing: antialiased;">
+<a =
+href=3D"http://go.linuxfoundation.org/e/6342/s-lftnews/233njz/606971599" =
+style=3D"-webkit-font-smoothing: antialiased; line-height: 24px; color: =
+rgb(4, 138, 197);">Take Survey Now =C2=BB</a></td>
+																	</tr>
+																	<tr>
+																		<td height=3D"35" width=3D"100%">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- Space -->
+
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"23">
+													<tbody>
+														<tr>
+															<td height=3D"35" width=3D"100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- Col 2 -->
+
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+																<tbody>
+																	<tr>
+																		<td class=3D"" pardot-datapardot-region=3D"" =
+style=3D"font-size: 18px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 32px; =
+vertical-align: bottom; color: rgb(63, 64, 66);" width=3D"100%">Spring =
+Training Sale</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td class=3D"" pardot-data=3D"link-color:#048ac5 ;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(51, 51, 51); =
+text-align: left; font-family: proxima_nova_rgregular, Helvetica, Arial, =
+sans-serif; line-height: 18px; vertical-align: top; " =
+width=3D"100%">We=E2=80=99re currently offering up to <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nlj/606971599" style=3D"color: rgb(4, 138, 197);">$1,000 off our =
+spring Linux training courses</a>. Here are some courses included in the =
+sale:<br>
+<br>
+<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nll/606971599" style=3D"color: rgb(4, 138, 197);">Developing Linux =
+Device Drivers (LFD331)</a><br>
+06-Apr-15 to 10-Apr-15<br>
+<strong>$1,995</strong><br>
+<em>Virtual</em><br>
+<br>
+<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nln/606971599" style=3D"color: rgb(4, 138, 197);">Linux Network =
+Management (LFS230)</a><br>
+<em>13-Apr-15 to 16-Apr-15</em><br>
+<strong>$1,995</strong><br>
+<em>Virtual</em><br>
+&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"35" width=3D"100%">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- Space -->
+
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"1">
+													<tbody>
+														<tr>
+															<td height=3D"35" width=3D"100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- Col 3 -->
+
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+													<tbody>
+														<tr>
+															<td valign=3D"top" width=3D"100%">
+															<table class=3D"fullCenter" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"185">
+																<tbody>
+																	<tr>
+																		<td pardot-datapardot-region=3D"" style=3D"font-size: =
+18px; text-align: left; font-family: =
+proxima_nova_rgregular,Helvetica,Arial,sans-serif; line-height: 32px; =
+vertical-align: bottom; color: rgb(63, 64, 66);" width=3D"100%">
+																		<p>Linux.com News</p>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"20" width=3D"100%">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td class=3D"" pardot-data=3D"link-color:#048ac5 ;" =
+pardot-region=3D"" style=3D"font-size: 14px; color: rgb(51, 51, 51); =
+text-align: left; font-family: proxima_nova_rgregular, Helvetica, Arial, =
+sans-serif; line-height: 18px; vertical-align: top; " width=3D"100%"><p =
+style=3D"-webkit-font-smoothing: antialiased; padding: 0px !important; =
+margin: 0px !important;">=C2=BB <a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nlq/606971599" =
+id=3D"docs-internal-guid-79a17be9-045d-5c6a-6949-7ccff5030fc8" =
+style=3D"color: rgb(4, 138, 197);">Top 10 Linux and Android Products =
+from Mobile World Congress</a><br style=3D"-webkit-font-smoothing: =
+antialiased;">
+<em style=3D"-webkit-font-smoothing: antialiased;">&nbsp; By Eric =
+Brown</em><br style=3D"-webkit-font-smoothing: antialiased;">
+<br style=3D"-webkit-font-smoothing: antialiased;">
+=C2=BB &nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nls/606971599" =
+id=3D"docs-internal-guid-79a17be9-045d-a06c-a320-10f8fa573905" =
+style=3D"color: rgb(4, 138, 197);">On the Linux Kernel=E2=80=99s Code of =
+Conflict</a><br style=3D"-webkit-font-smoothing: antialiased;">
+<em style=3D"-webkit-font-smoothing: antialiased;">&nbsp; By Jim =
+Zemlin</em><br>
+&nbsp;</p>
+
+<p style=3D"-webkit-font-smoothing: antialiased; padding: 0px =
+!important; margin: 0px !important;">=C2=BB &nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nlv/606971599" =
+id=3D"docs-internal-guid-79a17be9-045d-cb28-8c72-de2a7a24fd18" =
+style=3D"color: rgb(4, 138, 197);">15 Questions from Kernel.org SysAdmin =
+Konstantin Ryabitsev's Reddit AMA</a><br =
+style=3D"-webkit-font-smoothing: antialiased;">
+<em style=3D"-webkit-font-smoothing: antialiased;">&nbsp; By Libby =
+Clark</em><br style=3D"-webkit-font-smoothing: antialiased;">
+<br style=3D"-webkit-font-smoothing: antialiased;">
+=C2=BB &nbsp;<a =
+href=3D"http://go.linuxfoundation.org/e/6342/ch20201520training20newslett=
+er/233nlx/606971599" =
+id=3D"docs-internal-guid-79a17be9-045e-0754-7ca8-7d75cfe38824" =
+style=3D"color: rgb(4, 138, 197);">SUSE Explains Why the Future of =
+Enterprise Storage is Open Source</a><br =
+style=3D"-webkit-font-smoothing: antialiased;">
+<em style=3D"-webkit-font-smoothing: antialiased;">&nbsp; By Libby =
+Clark</em></p>
+</td>
+																	</tr>
+																	<tr>
+																		<td height=3D"35" width=3D"100%">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Wrapper --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- Nav Wrapper --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- Wrapper 3 (Divider) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" =
+bgcolor=3D"#fff" valign=3D"top" width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Divider -->
+									<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td style=3D"font-size: 1px; line-height: 1px;" =
+bgcolor=3D"#ccc" height=3D"1" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Divider --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 -->
+
+						<table class=3D"full" style=3D"position: relative; left: 0px; top: =
+0px; background-color:rgb(255, 255, 255);" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td style=3D"background-color:rgb(255, 255, 255);" =
+valign=3D"top" width=3D"100%"><!-- Start Social Icons -->
+									<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td height=3D"20" width=3D"100%">&nbsp;</td>
+											</tr>
+											<tr>
+												<td width=3D"100%"><!-- Footer Text -->
+												<table class=3D"fullCenter" =
+style=3D"border-collapse:collapse; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;" align=3D"left" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"370">
+													<tbody>
+														<tr>
+															<td class=3D"fullCenter" style=3D"font-size: 20px;  =
+color: #048ac5; text-align: left; font-family: 'proxima_nova_rgregular', =
+Helvetica, Arial, sans-serif; line-height: 32px; vertical-align: top;" =
+height=3D"32" width=3D"100%">Stay Connected</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- Space -->
+
+												<table class=3D"full" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"1">
+													<tbody>
+														<tr>
+															<td height=3D"15" width=3D"100%">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												<!-- End Space --><!-- Social Icons Left -->
+
+												<table class=3D"fullCenter" =
+style=3D"border-collapse:collapse; mso-table-lspace:0pt; =
+mso-table-rspace:0pt;" align=3D"right" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"200">
+													<tbody>
+														<tr>
+															<td class=3D"w20" width=3D"1">&nbsp;</td>
+															<td pardot-region=3D"" style=3D"text-align: center;" =
+height=3D"40" valign=3D"middle" width=3D"14"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/TheLinuxFoundation/233nkj/60=
+6971599"><img alt=3D"Facebook" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-04-23/y4sxr/6342/107184/=
+social_blue_facebook_icon_14.png" style=3D"width: 14px; height: 13px; =
+border-width: 0px; border-style: solid;" border=3D"0" height=3D"13" =
+width=3D"14"></a></td>
+															<td width=3D"3">&nbsp;</td>
+															<td pardot-region=3D"" style=3D"text-align: center;" =
+height=3D"40" valign=3D"middle" width=3D"14"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/linuxfoundation/233nkl/60697=
+1599"><img alt=3D"Twitter" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-04-23/y4sxm/6342/107180/=
+social_blue_twitter_icon_14.png" style=3D"width: 14px; height: 13px; =
+border-width: 0px; border-style: solid;" border=3D"0" height=3D"13" =
+width=3D"14"></a></td>
+															<td width=3D"3">&nbsp;</td>
+															<td pardot-region=3D"" style=3D"text-align: center;" =
+height=3D"40" valign=3D"middle" width=3D"14"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/groups-gid-48682/233nkn/6069=
+71599"><img alt=3D"LinkedIn" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-04-23/y4sxk/6342/107178/=
+social_blue_Linkedin_icon_14.png" style=3D"width: 14px; height: 13px; =
+border-width: 0px; border-style: solid;" border=3D"0" height=3D"13" =
+width=3D"14"></a></td>
+															<td width=3D"3">&nbsp;</td>
+															<td pardot-region=3D"" style=3D"text-align: center;" =
+height=3D"40" valign=3D"middle" width=3D"14"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/105083814157272466314-posts/=
+233nkq/606971599"><img alt=3D"Google &#43;" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-04-23/y4sx1/6342/107176/=
+social_blue_google_plus_icon_14.png" style=3D"width: 14px; border-width: =
+0px; border-style: solid; height: 14px;" border=3D"0" height=3D"14" =
+width=3D"14"></a></td>
+															<td width=3D"3">&nbsp;</td>
+															<td pardot-region=3D"" style=3D"text-align: center;" =
+height=3D"40" valign=3D"middle" width=3D"14"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/user-TheLinuxFoundation/233n=
+ks/606971599"><img alt=3D"YouTube" =
+src=3D"http://go.linuxfoundation.org/l/6342/2014-04-23/y4swy/6342/107174/=
+social_blue_youtube_icon_14.png" style=3D"width: 14px; height: 14px; =
+border-width: 0px; border-style: solid;" border=3D"0" height=3D"14" =
+width=3D"14"></a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Social Icons --><!-- Space -->
+
+									<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+										<tbody>
+											<tr>
+												<td style=3D"background-color:rgb(255, 255, 255);" =
+height=3D"10" width=3D"100%">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- End Space --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper 2 --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 3 --><!-- Wrapper 2 (Unsubscribe) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" =
+bgcolor=3D"#fff" valign=3D"top" width=3D"100%"><!-- Unsubscribe -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td width=3D"100%"><!-- Unsubscribe -->
+									<table class=3D"fullCenter" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td class=3D"fullCenter" pardot-region=3D"" =
+style=3D"font-size: 14px; color: rgb(255, 255, 255); text-align: center; =
+font-family: 'proxima_nova_rgbold',Helvetica,Arial,sans-serif; =
+line-height: 22px; vertical-align: top;" =
+width=3D"100%"><!--subscribe--><a =
+href=3D"http://go.linuxfoundation.org/email-preference-center?ehash=3Dd4f=
+65b28e3667b8e9350812c05c1be95&amp;email_id=3D606971599" style=3D"color: =
+#f47422;">Update Your Email Preferences</a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Unsubscribe --><!-- Space -->
+
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td height=3D"8" width=3D"100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Space --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 2 --><!-- Wrapper 2 (logo) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" =
+bgcolor=3D"#fff" valign=3D"top" width=3D"100%"><!-- Wrapper -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td height=3D"8" width=3D"100%">&nbsp;</td>
+								</tr>
+								<tr>
+									<td class=3D"logoWidth" width=3D"100%"><!-- Footer Logo -->
+									<table class=3D"fullCenter" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td class=3D"fullCenter" pardot-region=3D"" =
+style=3D"font-size: 14px; color: #ffffff; text-align: center; =
+font-family: 'proxima_nova_rgbold', Helvetica, Arial, sans-serif; =
+line-height: 22px; vertical-align: top;" width=3D"100%"><a =
+href=3D"http://go.linuxfoundation.org/e/6342/2015-03-10/233nkv/606971599"=
+ style=3D"text-decoration: none;"><img alt=3D"" =
+src=3D"http://go.linuxfoundation.org/lf_logo_new" style=3D"width: 150px; =
+border-width: 0px; border-style: solid; height: 37px;" border=3D"0" =
+height=3D"37" width=3D"150"></a></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Wrapper --><!-- Space -->
+
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td height=3D"10" width=3D"100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Space --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 2 --><!-- Wrapper 2 (Copyright) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" =
+bgcolor=3D"#fff" valign=3D"top" width=3D"100%"><!-- Unsubscribe -->
+						<table class=3D"mobile" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+							<tbody>
+								<tr>
+									<td height=3D"10" width=3D"100%">&nbsp;</td>
+								</tr>
+								<tr>
+									<td width=3D"100%"><!-- Copyright -->
+									<table class=3D"fullCenter" style=3D"border-collapse:collapse; =
+mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">
+										<tbody>
+											<tr>
+												<td class=3D"fullCenter" style=3D"font-size: 14px; color: =
+rgb(0, 0, 0); text-align: center; font-family: proxima_nova_rgregular, =
+Helvetica, Arial, sans-serif; line-height: 22px; vertical-align: top; " =
+width=3D"100%">
+												<p><br>
+												The Linux Foundation<br>
+												660 York Street<br>
+												Suite 102<br>
+												San Francisco, CA 94110<br>
+												<br>
+												=C2=A9 2014 All rights Reserved</p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Copyright --><!-- Space -->
+
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td height=3D"10" width=3D"100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Space --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 2 --><!-- Wrapper 2 (Space) -->
+
+			<table class=3D"full" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+				<tbody>
+					<tr>
+						<td style=3D"background-color:rgb(255, 255, 255);" =
+bgcolor=3D"#fff" valign=3D"top" width=3D"100%"><!-- Space -->
+						<table class=3D"full" align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+							<tbody>
+								<tr>
+									<td height=3D"40" width=3D"100%">&nbsp;</td>
+								</tr>
+								<tr>
+									<td height=3D"1" width=3D"100%">&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- End Space --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- End Wrapper 2 -->
+			<style type=3D"text/css">body{ background: none !important; }
+			</style>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+<img alt=3D"" =
+src=3D"http://go.linuxfoundation.org/r/6342/1/606971599/open/1"><style>@m=
+edia print{ #_t { background-image: =
+url('https://aq9ub2jr.emltrk.com/aq9ub2jr?p');}} =
+div.OutlookMessageHeader =
+{background-image:url('https://aq9ub2jr.emltrk.com/aq9ub2jr?f')} =
+table.moz-email-headers-table =
+{background-image:url('https://aq9ub2jr.emltrk.com/aq9ub2jr?f')} =
+blockquote #_t =
+{background-image:url('https://aq9ub2jr.emltrk.com/aq9ub2jr?f')} =
+#MailContainerBody #_t =
+{background-image:url('https://aq9ub2jr.emltrk.com/aq9ub2jr?f')}</style><=
+div id=3D"_t"></div>
+<img src=3D"https://aq9ub2jr.emltrk.com/aq9ub2jr" width=3D"1" =
+height=3D"1" border=3D"0"></body></html>
+
+------=_NextPart_000_0004_01D066E5.0FEBF410--
