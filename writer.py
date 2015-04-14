@@ -9,12 +9,17 @@ class Writer(object):
          os.makedirs(folder)
 
    def write(self, eml):
-      ftxt = os.path.join(self.folder, time.strftime('%Y%m%d_%H%M%S ') + eml.Subject() + '.txt')
+      ftxt = os.path.join(self.folder, eml.Date() + '-' + eml.Subject() + '.txt')
 
-      with open(ftxt, 'wb') as f:
-         f.write('From: ' + eml.From() + '\r\n')
-         f.write('To: ' + eml.To() + '\r\n')
-         f.write(eml.Content())
+      print 'save file: ', ftxt
+      print 'from: ', eml.From()
+      print 'to: ', eml.To()
+      #print 'date: ', eml.Date()
+      #print 'body: ', eml.Content()
+      #with open(ftxt, 'wb') as f:
+      #   f.write('From: ' + eml.From() + '\r\n')
+      #   f.write('To: ' + eml.To() + '\r\n')
+      #   f.write(eml.Content())
 
 
 

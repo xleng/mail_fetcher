@@ -5,7 +5,7 @@ import time
 import os
 
 from writer import Writer
-from fetch import Fetcher
+from fetcher import Fetcher
 
 spath = ''
 
@@ -13,10 +13,8 @@ def fetch_task(con_info):
 
     folder = os.path.join(spath, con_info[0])
 
-    #f = Fetcher(con_info[2], int(con_info[3], con_info[4]=="1", Writer(folder)))
-    #f.fetch(con_info[0], con_info[1])
-
-
+    f = Fetcher(con_info[2], int(con_info[3]), con_info[4]=="1", Writer(folder))
+    f.fetch(con_info[0], con_info[1])
 
     #return mail address and fetched number
     return con_info[0], 2

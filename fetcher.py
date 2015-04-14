@@ -29,7 +29,7 @@ class Fetcher:
       print 'message number: %d ' % msgnum
 
       for i in range(msgnum):
-      #for i in range(1):
+      #for i in range(9):
         buf = cStringIO.StringIO()
         for j in mclient.retr(i+1)[1]:
            #print j

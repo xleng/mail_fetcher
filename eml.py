@@ -10,11 +10,28 @@ class Eml(object):
       head = email.Header.Header(subject)
       dec_head = email.Header.decode_header(head)
       #print dec_head
-      #print 'subject: ', dec_head[0][0]
-      return (dec_head[0][0] or '').translate(None, '\t\r\n')
+      if len(dec_head) == 0:
+         return ''
+
+      s = ''
+      if dec_head[0][1] is None:
+         s = dec_head[0][0] or ''
+      else:
+         if dec_head[0][0] is None:
+            s = ''
+         else:
+            s = dec_head[0][0].decode(dec_head[0][1])
+
+      import re
+      s = re.sub(r'\s', '-', s)
+            
+      return s
 
    def Date(self):
-      return  self.msg.get("date")
+      t = email.utils.parsedate(self.msg.get("date"))
+      if t is None:
+         t = time.localtime()
+      return time.strftime('%Y%m%d-%H%M%S', t)
 
    def From(self):
       #print 'from: ', email.utils.parseaddr(self.msg.get("from"))[1] 
