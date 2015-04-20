@@ -2,43 +2,47 @@
 
 import cStringIO
 import poplib
+import re
 #import base64
 from eml import Eml
 
 class Fetcher:
-   def __init__(self, pserver, pport, bssl, writer=None):
+   def __init__(self, user, passwd, pserver, pport, bssl, writer=None):
       self.pserver = pserver
       self.pport = pport
-      self.bssl = bssl
       self.writer = writer
-      self.mclient = None
-
-   def fetch(self, user, passwd):
-      print self.pserver, self.pport, self.bssl
-      if self.bssl:
-         mclient = poplib.POP3_SSL(self.pserver, self.pport)
+      if bssl:
+         self.mclient = poplib.POP3_SSL(self.pserver, self.pport)
       else:
-         mclient = poplib.POP3(self.pserver, self.pport)
+         self.mclient = poplib.POP3(self.pserver, self.pport)
 
-      mclient.set_debuglevel(1)
-      mclient.user(user)
-      mclient.pass_(passwd)
+      self.mclient.set_debuglevel(1)
+      self.mclient.user(user)
+      self.mclient.pass_(passwd)
+   
+   def __del__(self):
+      if self.mclient:
+         self.mclient.quit()
 
-      #print mclient.stat()
-      msgnum = len(mclient.list()[1])
+   def msg_count(self):
+      msgnum = self.mclient.stat()[0]
       print 'message number: %d ' % msgnum
+      return msgnum
 
-      for i in range(msgnum):
-      #for i in range(9):
-        buf = cStringIO.StringIO()
-        for j in mclient.retr(i+1)[1]:
-           #print j
-           print >> buf, j
-        buf.seek(0)
-        self.writer.write(Eml(buf))
 
-      mclient.quit()
+   def fetch(self, idList):
+      for i in idList:
+         buf = cStringIO.StringIO()
+         #print self.mclient.retr(i)[1]
+         for line in self.mclient.retr(i)[1]:
+            line = re.sub(r'\r', '', line)
+            print >> buf, line
+         buf.seek(0)
+
+         self.writer.write(Eml(buf), i)
+
 
 
 
 #if __name__ == "__main__":
+

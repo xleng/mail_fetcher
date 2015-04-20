@@ -1,13 +1,21 @@
+#-*- encoding:utf8 -*-
 import email
 import time
+import chardet
 
 class Eml(object):
    def __init__(self, file):
       self.msg = email.message_from_file(file)
+      #print self.msg
 
    def Subject(self):
       subject = self.msg.get('Subject')
-      head = email.Header.Header(subject)
+      if subject is None:
+         print 'subject is None, return'
+         return ''
+      #print subject
+      head = email.Header.Header(subject, charset=chardet.detect(subject).get('encoding'))
+      #print head
       dec_head = email.Header.decode_header(head)
       #print dec_head
       if len(dec_head) == 0:
@@ -20,10 +28,7 @@ class Eml(object):
          if dec_head[0][0] is None:
             s = ''
          else:
-            s = dec_head[0][0].decode(dec_head[0][1])
-
-      import re
-      s = re.sub(r'\s', '-', s)
+            s = dec_head[0][0].decode(dec_head[0][1], 'ignore')
             
       return s
 
@@ -43,7 +48,6 @@ class Eml(object):
 
    def Content(self):
       conts = ''
-      #headers = msg.items()[0]
       for part in self.msg.walk():
          # multipart/* are just containers
          if part.get_content_maintype() == 'multipart':
@@ -51,9 +55,10 @@ class Eml(object):
          conttype = part.get_content_type()
          print conttype
 
-         #if conttype.startswith('text'):
-         if conttype == "text/plain":
+         if conttype.startswith('text'):
+         #if conttype == "text/plain":
             #print base64.decodestring(part.get_payload())
+            print part.get_payload()
             conts += part.get_payload(decode=True)
 
       return conts
